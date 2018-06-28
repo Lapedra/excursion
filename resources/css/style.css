@@ -1,3 +1,9 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+
 h1 {
   font-weight: normal;
   font-size: 50px;
@@ -5,15 +11,15 @@ h1 {
   font-family: Verdana;
 }
 
+h2 {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+
 a {
 color: Aquamarine;
 font-size: 16px;
-}
-
-body {
-  background-color: black;
-  text-align: center;
-  font-family: Verdana;
 }
 
 .excursion {
@@ -21,8 +27,9 @@ body {
   color: gray;
 }
 
-h2 {
-  color: white;
-  font-weight: 300;
-  font-size: 42px;
+
+
+.copyright {
+  text-align: right;
+  color: Gray;
 }
